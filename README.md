@@ -1,2 +1,2 @@
 # bfc
-Brain Fuck Compiler 
+BrainFuck Compiler 
